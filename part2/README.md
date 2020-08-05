@@ -1,5 +1,7 @@
 # Implementing Complex Pipelines - Part 2
 
+[Link to official post](https://www.mariocarrion.com/2020/08/04/go-implementing-complex-pipelines-part-2.html)
+
 To run the program make sure you have a database running locally, for example with docker:
 
 ```
@@ -37,7 +39,7 @@ The program also supports the following two parameters to control the implementa
 
 ```
   -amount int
-    	amount of fakes to generate (default 5000)
+    	amount of fakes to generate (default 1000000)
   -size int
-    	batch size (default 500)
+    	batch size (default 100000)
 ```
