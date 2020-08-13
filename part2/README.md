@@ -1,4 +1,4 @@
-# Implementing Complex Pipelines - Part 2
+# Complex Pipelines in Go (Part 2): Storing Values in Batches
 
 [Link to official post](https://www.mariocarrion.com/2020/08/04/go-implementing-complex-pipelines-part-2.html)
 
