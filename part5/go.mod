@@ -1,4 +1,4 @@
-module github.com/MarioCarrion/go-complex-pipelines/part5
+module github.com/MarioCarrion/complex-pipelines/part5
 
 go 1.15
 

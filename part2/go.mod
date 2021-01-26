@@ -1,4 +1,4 @@
-module github.com/MarioCarrion/go-complex-pipelines/part2
+module github.com/MarioCarrion/complex-pipelines/part2
 
 go 1.14
 

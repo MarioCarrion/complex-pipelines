@@ -1,4 +1,4 @@
-# Complex Pipelines in Go (Part 5): Putting All Together
+# Complex Pipelines in Go (Part 5): Putting it All Together
 
 [Link to official post](https://www.mariocarrion.com/2020/08/27/go-implementing-complex-pipelines-part-5.html)
 
